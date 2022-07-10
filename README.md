@@ -1,5 +1,4 @@
 # DeltaRobotAnalysis
-Analysing the kinematics and statics of the delta robot. THe inverse kinematics of the robot can be computed using the corresponding file.
+Computation of inverse and forward kinematics and Jacobian of delta robot.
 
-Jacobian formulation from https://www.researchgate.net/publication/242073945_Delta_robot_Inverse_direct_and_intermediate_Jacobians
-
+Equations derived in https://www.ohio.edu/mechanical-faculty/williams/html/PDF/DeltaKin.pdf
